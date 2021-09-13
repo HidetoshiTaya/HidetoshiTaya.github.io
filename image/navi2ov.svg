@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687499"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="navi2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.7115869"
+     inkscape:cx="143.82722"
+     inkscape:cy="28.396656"
+     inkscape:window-width="1816"
+     inkscape:window-height="1334"
+     inkscape:window-x="264"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text16827"
+     width="240px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid40935" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3804"
+       x="-0.39907642"
+       y="-1.1720244"
+       width="1.7981528"
+       height="3.3440489">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5267654"
+         id="feGaussianBlur3806" />
+    </filter>
+  </defs>
+  <rect
+     style="fill:none;stroke-width:0.264583"
+     id="rect243"
+     width="91.888626"
+     height="27.233517"
+     x="-2.9388688"
+     y="-1.7633213" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="黒"
+     style="display:inline">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect204"
+       width="40.103363"
+       height="40.005787"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g2122"
+     inkscape:label="光"
+     style="display:inline;opacity:0.743265;filter:url(#filter3804)">
+    <ellipse
+       style="fill:#808080;stroke-width:0.18711"
+       id="path3780"
+       cx="19.661379"
+       cy="42.786674"
+       rx="13.611725"
+       ry="4.6348166" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="白線2"
+     style="display:none;opacity:0.228">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect653"
+       width="40.883961"
+       height="0.097575091"
+       x="-1.6587768"
+       y="39.420338" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="白線"
+     style="display:none;opacity:0.494453">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect331"
+       width="0.097575091"
+       height="16.29504"
+       x="39.127609"
+       y="23.222872" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g867"
+     inkscape:label="白線 コピー"
+     style="display:inline;opacity:0.259905">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect865"
+       width="0.097575091"
+       height="16.29504"
+       x="0.52916664"
+       y="23.710745" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g2476"
+     inkscape:label="home"
+     style="display:none">
+    <g
+       aria-label="HOME"
+       id="text2474"
+       style="font-size:3.52778px;line-height:1.05;font-family:'Spica Neue Light';-inkscape-font-specification:'Spica Neue Light, ';opacity:0.99;fill:#ffffff;stroke-width:0.264583"
+       transform="translate(-11.31871,32.492504)">
+      <path
+         d="M 28.623599,5.4642053 H 28.446176 V 4.2256926 H 26.97512 v 1.2385127 h -0.1757 V 2.9458388 h 0.1757 V 4.063773 h 1.471056 V 2.9458388 h 0.177423 z"
+         id="path786"
+         style="fill:#ffffff" />
+      <path
+         d="m 31.453747,4.201577 q 0,0.599447 -0.299724,0.9491244 -0.299723,0.3479548 -0.826823,0.3479548 -0.525378,0 -0.825101,-0.3479548 -0.299724,-0.3496774 -0.299724,-0.9525695 0,-0.6011696 0.301446,-0.9456794 0.303169,-0.3462323 0.826824,-0.3462323 0.5271,0 0.825101,0.3479549 0.298001,0.3462323 0.298001,0.9474019 z m -2.060169,0 q 0,0.5408803 0.241157,0.8371587 0.241157,0.2945559 0.692465,0.2945559 0.454753,0 0.694187,-0.2928334 0.241157,-0.2928333 0.241157,-0.8388812 0,-0.5443255 -0.241157,-0.8337137 -0.239434,-0.2911107 -0.690742,-0.2911107 -0.449586,0 -0.694187,0.2928333 -0.24288,0.2928333 -0.24288,0.8319911 z"
+         id="path788"
+         style="fill:#ffffff" />
+      <path
+         d="m 33.140122,5.4642053 -0.938789,-2.325441 h -0.01378 q 0.01378,0.2135961 0.01378,0.4375274 v 1.8879136 h -0.16881 V 2.9458388 h 0.272163 l 0.89228,2.2151979 h 0.01033 l 0.892281,-2.2151979 h 0.265272 V 5.4642053 H 34.187432 V 3.5556211 q 0,-0.1998156 0.02067,-0.4134117 h -0.01378 l -0.942235,2.3219959 z"
+         id="path790"
+         style="fill:#ffffff" />
+      <path
+         d="M 36.452583,5.4642053 H 35.076267 V 2.9458388 h 1.376316 v 0.1619196 h -1.200616 v 0.9525695 h 1.133437 v 0.1619196 h -1.133437 v 1.0800382 h 1.200616 z"
+         id="path792"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="文字"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:0.95;font-family:'Spica Neue Light';-inkscape-font-specification:'Spica Neue Light,  Light';stroke-width:0.264583"
+       x="12.489612"
+       y="38.054283"
+       id="text5269"><tspan
+         sodipodi:role="line"
+         id="tspan5267"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'Spica Neue Light';-inkscape-font-specification:'Spica Neue Light,  Light';fill:#ffffff;stroke-width:0.264583"
+         x="12.489612"
+         y="38.054283">RESEARCH</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g16829"
+     inkscape:label="文字 コピー">
+    <g
+       aria-label="RESEARCH"
+       id="text16827"
+       style="font-weight:300;font-size:3.52778px;line-height:0.95;font-family:'Spica Neue Light';-inkscape-font-specification:'Spica Neue Light,  Light';stroke-width:0.264583">
+      <path
+         d="m 13.021879,36.95702 v 1.097263 h -0.1757 v -2.518366 h 0.599447 q 0.468534,0 0.692465,0.173977 0.223931,0.172255 0.223931,0.52021 0,0.253215 -0.134359,0.427192 -0.132636,0.173977 -0.404799,0.24977 l 0.683852,1.147217 H 14.296565 L 13.647164,36.95702 Z m 0,-0.151585 h 0.480591 q 0.318672,0 0.494372,-0.141249 0.1757,-0.142971 0.1757,-0.420302 0,-0.287665 -0.172255,-0.418579 -0.172255,-0.130914 -0.561551,-0.130914 h -0.416857 z"
+         style="fill:#ffffff"
+         id="path18595" />
+      <path
+         d="m 16.318838,38.054283 h -1.376317 v -2.518366 h 1.376317 v 0.161919 h -1.200617 v 0.95257 h 1.133437 v 0.161919 h -1.133437 v 1.080039 h 1.200617 z"
+         style="fill:#ffffff"
+         id="path18597" />
+      <path
+         d="m 18.279098,37.404882 q 0,0.315227 -0.232544,0.499539 -0.230822,0.184313 -0.61495,0.184313 -0.461643,0 -0.707968,-0.10163 v -0.1757 q 0.272163,0.115411 0.694188,0.115411 0.310058,0 0.490926,-0.141249 0.18259,-0.142972 0.18259,-0.373794 0,-0.142971 -0.06029,-0.235989 -0.06029,-0.09474 -0.196371,-0.172255 -0.136081,-0.07751 -0.399631,-0.167087 -0.385851,-0.132636 -0.53399,-0.285943 -0.146417,-0.155029 -0.146417,-0.411689 0,-0.282498 0.220487,-0.459921 0.222208,-0.179145 0.570163,-0.179145 0.354845,0 0.666627,0.134359 l -0.06374,0.151584 q -0.313504,-0.130913 -0.599447,-0.130913 -0.279053,0 -0.444417,0.129191 -0.165365,0.129191 -0.165365,0.3514 0,0.139526 0.04995,0.229099 0.05168,0.08957 0.167087,0.161919 0.115411,0.07062 0.396186,0.170533 0.294556,0.10163 0.442695,0.198093 0.14814,0.09474 0.215319,0.217041 0.0689,0.120578 0.0689,0.292833 z"
+         style="fill:#ffffff"
+         id="path18599" />
+      <path
+         d="m 20.187682,38.054283 h -1.376316 v -2.518366 h 1.376316 v 0.161919 h -1.200616 v 0.95257 h 1.133437 v 0.161919 h -1.133437 v 1.080039 h 1.200616 z"
+         style="fill:#ffffff"
+         id="path18601" />
+      <path
+         d="m 21.970521,37.165448 h -1.023195 l -0.351399,0.888835 h -0.194649 l 1.012859,-2.528702 h 0.111966 l 0.992188,2.528702 h -0.198093 z m -0.95946,-0.158475 h 0.900893 L 21.569167,36.09919 q -0.04306,-0.106798 -0.103353,-0.296278 -0.04651,0.165364 -0.101631,0.299723 z"
+         style="fill:#ffffff"
+         id="path18603" />
+      <path
+         d="m 23.050558,36.95702 v 1.097263 h -0.1757 v -2.518366 h 0.599447 q 0.468533,0 0.692465,0.173977 0.223931,0.172255 0.223931,0.52021 0,0.253215 -0.134359,0.427192 -0.132636,0.173977 -0.404799,0.24977 l 0.683852,1.147217 H 24.325244 L 23.675843,36.95702 Z m 0,-0.151585 h 0.480591 q 0.318672,0 0.494372,-0.141249 0.1757,-0.142971 0.1757,-0.420302 0,-0.287665 -0.172255,-0.418579 -0.172255,-0.130914 -0.561551,-0.130914 h -0.416857 z"
+         style="fill:#ffffff"
+         id="path18605" />
+      <path
+         d="m 26.046071,35.658218 q -0.473701,0 -0.745864,0.303168 -0.272163,0.303169 -0.272163,0.830269 0,0.539158 0.25666,0.837159 0.25666,0.298001 0.733806,0.298001 0.316949,0 0.582221,-0.08096 v 0.155029 q -0.249769,0.08785 -0.623562,0.08785 -0.530545,0 -0.835436,-0.342787 -0.304892,-0.342787 -0.304892,-0.957737 0,-0.384129 0.144695,-0.676962 0.146416,-0.292833 0.418579,-0.451308 0.273885,-0.160197 0.63562,-0.160197 0.368626,0 0.659737,0.137804 l -0.07062,0.158475 q -0.275608,-0.137804 -0.578776,-0.137804 z"
+         style="fill:#ffffff"
+         id="path18607" />
+      <path
+         d="m 28.986461,38.054283 h -0.177422 v -1.238512 h -1.471057 v 1.238512 h -0.1757 v -2.518366 h 0.1757 v 1.117934 h 1.471057 v -1.117934 h 0.177422 z"
+         style="fill:#ffffff"
+         id="path18609" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="基準線"
+     style="display:none">
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect488"
+       width="51.324493"
+       height="0.097575091"
+       x="-3.5127032"
+       y="35.322182" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect490"
+       width="0.19515018"
+       height="61.277153"
+       x="20.295618"
+       y="-4.3908787" />
+  </g>
+</svg>
