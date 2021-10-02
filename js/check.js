@@ -8,6 +8,7 @@ function getBrowserName(){
  return "";
 }
 
+
 browser=getBrowserName();
 
 function check(){
