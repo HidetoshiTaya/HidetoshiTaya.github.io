@@ -159,6 +159,15 @@ br {
 	color: #ffffff;
 }
 
+#texth3{
+	font-family: 'Heebo', 'M PLUS Rounded 1c', sans-serif;
+	font-weight: 600; 
+	margin: 0 0 0 10;
+	font-size: 20px;
+	text-align: left;
+	color: #ffffff;
+}
+
 
 #footer{ 
 	width:100%;
