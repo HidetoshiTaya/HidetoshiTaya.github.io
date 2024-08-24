@@ -163,11 +163,17 @@ br {
 	font-family: 'Heebo', 'M PLUS Rounded 1c', sans-serif;
 	font-weight: 600; 
 	margin: 0 0 0 10;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: left;
 	color: #ffffff;
 }
 
+details > summary {
+  padding: 0px 0px;
+  width: 18em;
+  cursor: pointer;
+  list-style: none;
+}
 
 #footer{ 
 	width:100%;
