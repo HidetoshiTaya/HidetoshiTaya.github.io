@@ -202,5 +202,9 @@ td,th{
 	color: rgba(210,210,210,1);
 }
 
+b, strong {
+  font-weight: 700 !important;
+}
+
 .clear { clear:both; }  
 .clear hr { display:none; }  
